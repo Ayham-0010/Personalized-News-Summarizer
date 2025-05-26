@@ -1,2 +1,3 @@
-# AI Impact Observatory
+# Global-Weather-Air-Quality-Insights
+
 
